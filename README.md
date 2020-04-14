@@ -2,7 +2,7 @@
 The Markov-based Feedback vertex set algorithms
 
 ## What’s the best way to read and understand someone else’s code?
-###1. Find one thing you know the code does, and trace those actions backward, starting at the end.
+### 1. Find one thing you know the code does, and trace those actions backward, starting at the end.
 
 Say, for example, you know that the code you’re viewing ultimately creates a file with a list of movie titles. Figure out where in the code — the specific, few lines — it generates that file.
 
@@ -29,7 +29,7 @@ you’ll now be looking at:
 
 It’s almost as if you were originally standing in a room that was pitch-black, and, one at a time, different lights throughout the room were turned on to gradually reveal more details of the room’s appearance.
 
-###2. Rinse and repeat.
+### 2. Rinse and repeat.
 
 Repeat that process multiple times, and you’ll rapidly increase your understanding of more and more pieces of the overall codebase.
 
